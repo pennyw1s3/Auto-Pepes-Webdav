@@ -1,6 +1,9 @@
 # Auto-Pepes-Webdav
 # Command 
 * pkg update && pkg upgrade
+* pkg install pip
+* pkg install pip2
+* pip2 install requests
 * pkg install python
 * pkg install python2 
 * pkg install git
