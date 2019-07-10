@@ -1,5 +1,5 @@
 # Auto-Pepes-Webdav
-![1](https://github.com/Auto-Pepes-Webdav/pepes.png)
+![1](https://github.com/pennyw1s3/Auto-Pepes-Webdav/pepes.png)
 # Command 
 * `pkg update && pkg upgrade`
 * `pkg install pip`
